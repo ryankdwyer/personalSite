@@ -1,3 +1,6 @@
-/**
- * Created by ryan on 12/18/15.
- */
+app.directive('header', function () {
+    return {
+        restrict: 'E',
+        templateUrl: 'shared/header/header.html'
+    }
+});

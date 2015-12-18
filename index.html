@@ -1,0 +1,29 @@
+<html>
+<head>
+    <script src="angular/angular.min.js"></script>
+    <script src="angular-ui-router/build/angular-ui-router.min.js"></script>
+    <script src="lodash/index.js"></script>
+
+    <link rel="stylesheet" href="basscss/css/basscss.min.css">
+    <link rel="stylesheet" href="font-awesome/css/font-awesome.min.css">
+
+    <script src="app.js"></script>
+    <script src="shared/header/header.js"></script>
+    <script src="shared/footer/footer.js"></script>
+    <script src="components/banner/banner.js"></script>
+    <script src="components/about/about.state.js"></script>
+    <base href="/">
+</head>
+<body ng-app="rkd">
+    <div class="flex flex-column" style="min-height: 100vh;">
+        <header></header>
+        <banner></banner>
+        <div class="flex-auto">
+            <div class="container">
+                <ui-view></ui-view>
+            </div>
+        </div>
+        <footer></footer>
+    </div>
+</body>
+</html>
