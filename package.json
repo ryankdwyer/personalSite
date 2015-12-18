@@ -1,0 +1,19 @@
+{
+  "name": "personalsite",
+  "version": "1.0.0",
+  "description": "A personal website for my portfolio",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ryan Dwyer",
+  "license": "ISC",
+  "dependencies": {
+    "angular": "^1.4.8",
+    "basscss": "^7.0.4",
+    "body-parser": "^1.14.2",
+    "express": "^4.13.3",
+    "lodash": "^3.10.1",
+    "mongoose": "^4.3.3"
+  }
+}
