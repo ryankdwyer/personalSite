@@ -18,6 +18,6 @@ app.use(bodyParser.json());
 
 app.use(require('../statics/statics.js'));
 
-app.get('/', function (req, res, next) {
+app.get('/*', function (req, res, next) {
     res.sendFile(indexPath);
 });
