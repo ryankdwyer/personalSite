@@ -3,8 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="689d1fc3-034d-48b5-899d-87ada1ed2907" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/components/main/main.html" afterPath="$PROJECT_DIR$/app/components/main/main.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/components/work/work.html" afterPath="$PROJECT_DIR$/app/components/work/work.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/shared/header/header.html" afterPath="$PROJECT_DIR$/app/shared/header/header.html" />
     </list>
     <ignored path="personalSite.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -25,21 +24,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="main.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/components/main/main.html">
+      <file leaf-file-name="header.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/shared/header/header.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-6.107143">
-              <caret line="9" column="168" selection-start-line="9" selection-start-column="168" selection-end-line="9" selection-end-column="168" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="work.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/app/components/work/work.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.24876441">
-              <caret line="29" column="31" selection-start-line="29" selection-start-column="31" selection-end-line="29" selection-end-column="31" />
+            <state vertical-scroll-proportion="0.15650742">
+              <caret line="5" column="48" selection-start-line="5" selection-start-column="48" selection-end-line="5" selection-end-column="48" />
               <folding />
             </state>
           </provider>
@@ -83,9 +72,9 @@
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/app/components/banner/banner.html" />
         <option value="$PROJECT_DIR$/app/components/resume/resume.html" />
-        <option value="$PROJECT_DIR$/app/shared/header/header.html" />
         <option value="$PROJECT_DIR$/app/components/main/main.html" />
         <option value="$PROJECT_DIR$/app/components/work/work.html" />
+        <option value="$PROJECT_DIR$/app/shared/header/header.html" />
       </list>
     </option>
   </component>
@@ -126,8 +115,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -376,6 +363,8 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -641,13 +630,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/shared/header/header.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.15650742">
-          <caret line="5" column="60" selection-start-line="5" selection-start-column="60" selection-end-line="5" selection-end-column="60" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/components/resume/resume.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.031301484">
@@ -655,18 +637,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/components/main/main.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-6.107143">
-          <caret line="9" column="168" selection-start-line="9" selection-start-column="168" selection-end-line="9" selection-end-column="168" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/components/work/work.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.24876441">
           <caret line="29" column="31" selection-start-line="29" selection-start-column="31" selection-end-line="29" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/components/main/main.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.28171334">
+          <caret line="9" column="168" selection-start-line="9" selection-start-column="168" selection-end-line="9" selection-end-column="168" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/shared/header/header.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.15650742">
+          <caret line="5" column="48" selection-start-line="5" selection-start-column="48" selection-end-line="5" selection-end-column="48" />
           <folding />
         </state>
       </provider>
