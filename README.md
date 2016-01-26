@@ -5,5 +5,5 @@ This is a simple website I made to highlight my web development skills. It offer
 ## Technologies used:
 1. JavaScript
 2. AngularJS
-3. BassCss
+3. Basscss
 4. Express
