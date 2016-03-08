@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="689d1fc3-034d-48b5-899d-87ada1ed2907" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/jsLinters/jslint.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/components/main/main.state.js" afterPath="$PROJECT_DIR$/app/components/main/main.state.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/components/work/work.state.js" afterPath="$PROJECT_DIR$/app/components/work/work.state.js" />
-    </list>
+    <list default="true" id="689d1fc3-034d-48b5-899d-87ada1ed2907" name="Default" comment="" />
     <ignored path="personalSite.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
