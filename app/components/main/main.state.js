@@ -3,4 +3,4 @@ app.config(function ($stateProvider) {
         url: '/',
         templateUrl: 'components/main/main.html'
     })
-})
+});
