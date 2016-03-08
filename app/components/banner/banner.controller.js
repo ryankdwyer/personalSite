@@ -5,7 +5,6 @@ app.controller('BannerCtrl', function ($scope, $state, $location, $rootScope) {
     });
 
     $rootScope.$on('$viewContentLoaded', function(event, viewConfig) {
-        console.log($state.current.name);
         $scope.currState = $state.current.name;
     })
 });
